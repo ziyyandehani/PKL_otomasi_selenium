@@ -1,0 +1,4 @@
+selenium
+pandas
+undetected-chromedriver
+requests
